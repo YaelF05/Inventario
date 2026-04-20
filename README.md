@@ -13,7 +13,7 @@ API REST completa para gestionar el inventario deuna tieda, construida en Spring
 
 ```bash
 # Clonar el repositorio
-git clone -
+git clone https://github.com/YaelF05/Inventario.git
 
 # Entrar al directorio
 cd inventario
