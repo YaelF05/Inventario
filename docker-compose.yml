@@ -16,7 +16,7 @@ services:
     container_name: inventariodb
     environment:
       DB_HOST: db
-      DB_PORT: 5432
+      DB_PORT: "5432"
       DB_USER: postgres
       DB_PASSWORD: postgres
     ports:
